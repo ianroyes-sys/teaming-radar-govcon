@@ -1,0 +1,1 @@
+export default function Loading() { return <div className="shell loading-state" role="status"><span className="skeleton wide"/><span className="skeleton medium"/><span className="skeleton panel"/><span className="sr-only">Loading dossier</span></div>; }
